@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:
+    username:root
+    password: "{cipher}SAIKrishna@1"
+
